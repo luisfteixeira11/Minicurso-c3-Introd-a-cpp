@@ -6,9 +6,9 @@ Este é o repositório que utilizamos para as questões utilizadas no Minicurso 
 
 # Conteúdos das questões:
 
-1. Prioridade Matemática
+1. [Prioridade Matemática](prioridade-matematica)
 
-2. Condicionais
+2. [Condicionais](condicionais)
 
 3. [Loops-While](loops-while)
 
