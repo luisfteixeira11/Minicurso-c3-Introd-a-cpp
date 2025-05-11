@@ -1,5 +1,5 @@
 /*
-QuestC#o Fibonacci FC!cil - Luis Teixeira
+Questao Fibonacci Facil - Luis Teixeira
 https://judge.beecrowd.com/pt/problems/view/1151
 */
 #include <iostream>
