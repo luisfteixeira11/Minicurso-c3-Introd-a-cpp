@@ -20,3 +20,6 @@ Este é o repositório que utilizamos para as questões utilizadas no Minicurso 
 
 * [Rielly Luiza](https://github.com/rluizaduarte)
 * [Luis Felipe Teixeira](https://github.com/luisfteixeira11)
+
+# Canva:
+[link](https://www.canva.com/design/DAGnDz56U8Y/9JebR4fWtQU0hoHL4v4sEA/view?utm_content=DAGnDz56U8Y&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h136fc18d13)
